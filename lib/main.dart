@@ -1,6 +1,7 @@
 import 'package:easy_dynamic_theme/easy_dynamic_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:onlineshop/core/auth/splash_page.dart';
 import 'package:onlineshop/core/provider/provider.dart';
 import 'package:onlineshop/features/home/main_screen.dart';
 import 'package:onlineshop/theme/theme.dart';
@@ -43,7 +44,7 @@ class _MyAppState extends State<MyApp> {
               darkTheme: darkThemeData,
               themeMode: EasyDynamicTheme.of(context).themeMode,
               // home: const ProductListScreen());
-              home: const MainPage());
+              home: const SplashPage());
         });
   }
 }
