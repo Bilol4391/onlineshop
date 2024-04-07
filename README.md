@@ -1,16 +1,28 @@
-# onlineshop
+# Storeling
 
-A new Flutter project.
+![Storeling](https://github.com/bilol-tech/storeling/blob/main/assets/Storeling.png)
 
-## Getting Started
+This is an innovative online shopping application designed that offers seamless navigation and intuitive design, ensuring a smooth and enjoyable shopping journey for users. With both light and dark mode options, the app adapts to your preferences, providing a visually pleasing interface at any time of day.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Seamless navigation
+- Intuitive design
+- Light and dark mode options
+- Visually pleasing interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Http
+- Cupertino Widgets
+- REST APIs
+
+## Usage
+
+1. Download and install the Storeling mobile application on your device.
+2. Sign up or log in to your account.
+3. Browse through various categories and products.
+4. Add desired items to your cart.
+5. Proceed to checkout and complete your purchase securely.
